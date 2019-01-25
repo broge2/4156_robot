@@ -1,4 +1,4 @@
-package xboxcontroller.map;
+package org.usfirst.frc4156.utility;
 public interface XBoxControllerMap {
 	//Digital Buttons
 	public static final int A = 1;
