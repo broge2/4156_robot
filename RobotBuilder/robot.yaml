@@ -223,9 +223,9 @@ Properties:
   Simulation World File: !!robotbuilder.data.properties.StringProperty {default: /usr/share/frcsim/worlds/GearsBotDemo.world,
     name: Simulation World File, validators: null, value: /usr/share/frcsim/worlds/GearsBotDemo.world}
   Wiring file location: !!robotbuilder.data.properties.FileProperty {default: 'C:\Users\btcr\',
-    extension: null, folder: true, name: Wiring file location, validators: null, value: 'C:\Users\btcr\'}
+    extension: null, folder: true, name: Wiring file location, validators: null, value: 'C:\Users\btcr\Documents\RobotWorkspace\2019_Robot\RobotBuilder\Wiring'}
   Export Directory: !!robotbuilder.data.properties.FileProperty {default: 'C:\Users\btcr\FRCProjects',
-    extension: null, folder: true, name: Export Directory, validators: null, value: 'C:\Users\btcr\FRCProjects'}
+    extension: null, folder: true, name: Export Directory, validators: null, value: 'C:\Users\btcr\Documents\RobotWorkspace\2019_Robot'}
   Autonomous Command: !!robotbuilder.data.properties.TypeSelectionProperty {default: None,
     name: Autonomous Command, type: Command, validators: null, value: Autonomous Command}
 Base: Robot
